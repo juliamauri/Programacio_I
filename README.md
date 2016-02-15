@@ -1,7 +1,7 @@
 <snippet>
   <content>
-# Programació II
-My repository for publishing my work of Programació II.
+# Programació I
+My repository for publishing my work which I did at Programació I
 
 ## Credits
 By Julià Mauri Costa
@@ -9,6 +9,5 @@ By Julià Mauri Costa
 ## License
 
 
-]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
