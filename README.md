@@ -7,7 +7,6 @@ My repository for publishing my work which I did at Programació I. The content 
 By Julià Mauri Costa
 
 ## License
-
-
+GNU General Public License v3.0
   <tabTrigger>readme</tabTrigger>
 </snippet>
